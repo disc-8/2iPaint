@@ -1,0 +1,39 @@
+##mmMUDIŁĄblyediSC8
+D8_NAYM=\
+'2iPaint.r135'
+
+D8_SHDC=\
+'ANSI art dhrawyn prajram'
+
+D8_ORGY=\
+'DiSC-8/Хальцён-СФТ'
+
+D8_DAUN=\
+'http://xmidget3mj4lnryldmv5t7uik3p26egkgkg3t7mlcloottrxwnrrn5yd.onion'
+
+D8_VERS=\
+'1.1-A'
+
+D8_LOGO=\
+$(cat << \EOF
+ _ _
+( ' )
+ \ \
+  \ \
+   \ \ use kok as paintbrush?
+    \_\ yeah i do,spperrmpaint bby
+  __/__\__
+EOF
+)
+
+D8_DESC=\
+$(cat << \EOF
+2iPaint/R135 is a STILL unfinished program 4 writin ANSI art. The controls are simpyl n inkluded in de programz help bar. like rest of PusLohs/FPR written shieet, windows port coming LeSOON.
+
+Features
+* Portabel even when dynamiklink:
+* VERYnice UI.
+* artifakting okkurs only sumtimez
+* 256 color support...if you try hard nuff ;)
+EOF
+)
